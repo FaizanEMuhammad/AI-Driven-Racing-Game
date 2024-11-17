@@ -1,0 +1,65 @@
+{
+    "DriveCar": {
+        "checkpoints": [
+            {
+                "steps": 3499944,
+                "file_path": "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-3499944.onnx",
+                "reward": -18.173486414111473,
+                "creation_time": 1730614516.0624912,
+                "auxillary_file_paths": [
+                    "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-3499944.pt"
+                ]
+            },
+            {
+                "steps": 3999936,
+                "file_path": "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-3999936.onnx",
+                "reward": -17.58010904811403,
+                "creation_time": 1730615275.8044386,
+                "auxillary_file_paths": [
+                    "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-3999936.pt"
+                ]
+            },
+            {
+                "steps": 4499992,
+                "file_path": "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-4499992.onnx",
+                "reward": -18.846668278829505,
+                "creation_time": 1730616129.357467,
+                "auxillary_file_paths": [
+                    "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-4499992.pt"
+                ]
+            },
+            {
+                "steps": 4999984,
+                "file_path": "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-4999984.onnx",
+                "reward": -20.437501833153267,
+                "creation_time": 1730617143.7399178,
+                "auxillary_file_paths": [
+                    "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-4999984.pt"
+                ]
+            },
+            {
+                "steps": 5000304,
+                "file_path": "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-5000304.onnx",
+                "reward": -20.437501833153267,
+                "creation_time": 1730617143.8507824,
+                "auxillary_file_paths": [
+                    "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-5000304.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000304,
+            "file_path": "results\\ImitationLearningfrom10000steps5\\DriveCar.onnx",
+            "reward": -20.437501833153267,
+            "creation_time": 1730617143.8507824,
+            "auxillary_file_paths": [
+                "results\\ImitationLearningfrom10000steps5\\DriveCar\\DriveCar-5000304.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0.dev20241029+cu124"
+    }
+}

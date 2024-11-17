@@ -1,0 +1,38 @@
+{
+    "DriveCar": {
+        "checkpoints": [
+            {
+                "steps": 499936,
+                "file_path": "results\\ImitationLearning3\\DriveCar\\DriveCar-499936.onnx",
+                "reward": null,
+                "creation_time": 1730286165.161351,
+                "auxillary_file_paths": [
+                    "results\\ImitationLearning3\\DriveCar\\DriveCar-499936.pt"
+                ]
+            },
+            {
+                "steps": 500256,
+                "file_path": "results\\ImitationLearning3\\DriveCar\\DriveCar-500256.onnx",
+                "reward": null,
+                "creation_time": 1730286165.2910872,
+                "auxillary_file_paths": [
+                    "results\\ImitationLearning3\\DriveCar\\DriveCar-500256.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500256,
+            "file_path": "results\\ImitationLearning3\\DriveCar.onnx",
+            "reward": null,
+            "creation_time": 1730286165.2910872,
+            "auxillary_file_paths": [
+                "results\\ImitationLearning3\\DriveCar\\DriveCar-500256.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "DriveCar": {
+        "checkpoints": [
+            {
+                "steps": 480264,
+                "file_path": "results\\ImitateDriving3000\\DriveCar\\DriveCar-480264.onnx",
+                "reward": null,
+                "creation_time": 1729781596.3807018,
+                "auxillary_file_paths": [
+                    "results\\ImitateDriving3000\\DriveCar\\DriveCar-480264.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 480264,
+            "file_path": "results\\ImitateDriving3000\\DriveCar.onnx",
+            "reward": null,
+            "creation_time": 1729781596.3807018,
+            "auxillary_file_paths": [
+                "results\\ImitateDriving3000\\DriveCar\\DriveCar-480264.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.4.1+cpu"
+    }
+}

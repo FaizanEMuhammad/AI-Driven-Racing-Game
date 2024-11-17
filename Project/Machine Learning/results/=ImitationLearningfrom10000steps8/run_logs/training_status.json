@@ -1,0 +1,29 @@
+{
+    "DriveCar": {
+        "checkpoints": [
+            {
+                "steps": 94488,
+                "file_path": "results\\=ImitationLearningfrom10000steps8\\DriveCar\\DriveCar-94488.onnx",
+                "reward": -8.025926636876884,
+                "creation_time": 1730642640.1666768,
+                "auxillary_file_paths": [
+                    "results\\=ImitationLearningfrom10000steps8\\DriveCar\\DriveCar-94488.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 94488,
+            "file_path": "results\\=ImitationLearningfrom10000steps8\\DriveCar.onnx",
+            "reward": -8.025926636876884,
+            "creation_time": 1730642640.1666768,
+            "auxillary_file_paths": [
+                "results\\=ImitationLearningfrom10000steps8\\DriveCar\\DriveCar-94488.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.6.0.dev20241029+cu124"
+    }
+}
